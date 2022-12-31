@@ -1,0 +1,1 @@
+# static_inferencefuzzy_suhuoptimalac-sugeno-python
