@@ -1,3 +1,5 @@
+![Screenshot 2022-12-31 125447](https://user-images.githubusercontent.com/121701309/210126756-15e83c6d-805f-49e1-a58b-d93c21a06318.jpg)
+
 # Aplikasi Statis Inferensi Fuzzy Suhu Optimal Ruangan Pada AC Menggunakan Metode Sugeno #
 Sistem mengambil tiga variabel masukan: suhu di luar ruangan, suhu di dalam ruangan, dan jumlah orang di dalam ruangan. Berdasarkan masukan tersebut, sistem menentukan suhu optimal untuk AC menggunakan logika fuzzy. Variabel keluaran adalah suhu yang direkomendasikan untuk AC. Kode dalam repositori ini dapat digunakan untuk mengoptimalkan kontrol suhu sistem AC, yang menghasilkan peningkatan kenyamanan dan efisiensi energi.<br>
 Pada Static_InferenceFuzzy_SuhuOptimalAC_Sugeno.ipynb Anda akan melihat keseluruhan proses dari input hingga output sehingga memudahkan pembaca untuk memahami proses inferensi fuzzy. Kemudian di dalam GUI_static.ipynb Anda akan melihat GUI sederhana dari aplikasi ini.
